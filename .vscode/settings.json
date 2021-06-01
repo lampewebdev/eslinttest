@@ -1,0 +1,17 @@
+{
+  "eslint.format.enable": true,
+  "eslint.workingDirectories": [{"mode": "auto"}],
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+    "markdown"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": false,
+}
